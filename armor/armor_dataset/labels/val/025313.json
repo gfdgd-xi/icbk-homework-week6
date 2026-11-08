@@ -1,0 +1,46 @@
+{
+  "version": "7.9.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "armor_blue",
+      "points": [
+        [
+          395.35207342449473,
+          258.52314952437575
+        ],
+        [
+          467.8313577586207,
+          310.5097168549346
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "armor_red",
+      "points": [
+        [
+          446.81378195600485,
+          376.40968712841857
+        ],
+        [
+          532.0894024970274,
+          453.0228151010702
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "025313.jpg",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 640
+}

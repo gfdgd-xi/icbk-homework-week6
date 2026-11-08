@@ -1,0 +1,28 @@
+{
+  "version": "7.9.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "armor_blue",
+      "points": [
+        [
+          471.7352853745541,
+          288.0638748513674
+        ],
+        [
+          531.5343527051131,
+          334.46046373365044
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "025027.jpg",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 640
+}

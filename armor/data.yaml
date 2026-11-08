@@ -1,0 +1,8 @@
+path: ./armor_dataset
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: armor_red
+  1: armor_blue
